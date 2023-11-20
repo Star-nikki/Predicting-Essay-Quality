@@ -1,0 +1,7 @@
+id,event_id,down_time,up_time,action_time,activity,down_event,up_event,text_change,cursor_position,word_count
+0000aaaa,1,338433,338518,85,Input,Space,Space, ,0,0
+0000aaaa,2,760073,760160,87,Input,Space,Space, ,1,0
+2222bbbb,1,711956,712023,67,Input,q,q,q,0,1
+2222bbbb,2,290502,290548,46,Input,q,q,q,1,1
+4444cccc,1,635547,635641,94,Input,Space,Space, ,0,0
+4444cccc,2,184996,185052,56,Input,q,q,q,1,1
