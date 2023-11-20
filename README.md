@@ -1,1 +1,3 @@
 # Predicting-Essay-Quality
+
+In this competition, the goal is to leverage process features extracted from keystroke log data to forecast the overall quality of writing. This endeavor aims to uncover connections between the writing behaviors of learners and their writing performance. Moreover, since existing writing assessment tools predominantly concentrate on the end results of writing, this approach could guide learners to pay closer attention to their text creation process. Ultimately, this emphasis on process may enhance learners' autonomy, metacognitive awareness, and self-regulation in the act of writing.
